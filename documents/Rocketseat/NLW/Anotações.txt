@@ -1,0 +1,32 @@
+<!--
+  Como fazer um comentário em HTML
+-->
+
+
+
+<!--
+  O que é o HTML?
+    - HT  - HyperText
+        Hiper Texto
+        Links
+    - M   - Markup
+        Tags - Marcação de texto
+    - L   - Language
+        Maneira de escrever
+-->
+
+
+<!--
+  O que é CSS?
+    - Cascading Style Sheets
+    - Apresentação visual para o cliente
+    - Estilo para o HTML
+
+-->
+
+
+<!--
+  Box Model
+
+    Todo elemento é uma caixa
+-->
